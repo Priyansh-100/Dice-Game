@@ -4,9 +4,9 @@ This is a simple dice rolling simulation gane built in Java using Swing Gui fram
 
 ## Features
 
--Supports multiple players
--Manual and auto play modes
--Visual dice face images
--Round by round result display
--Tracks player win count
--Real-time UI updates
+1.Supports multiple players
+2.Manual and auto play modes
+3.Visual dice face images
+4.Round by round result display
+5.Tracks player win count
+6.Real-time UI updates
